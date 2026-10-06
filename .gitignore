@@ -31,3 +31,9 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# macOS / runtime
+.DS_Store
+**/.DS_Store
+logs/
+*.jsonl
